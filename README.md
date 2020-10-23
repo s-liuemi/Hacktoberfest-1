@@ -46,5 +46,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 ### Contributors:
 
 * [Joonsang1994](https://github.com/Joonsang1994)
-* [yourusernamehere](https://github.com/yourusernamehere)
+* [s-liuemi](https://github.com/s-liuemi)
+    'testing testing 1 2 3'
 
